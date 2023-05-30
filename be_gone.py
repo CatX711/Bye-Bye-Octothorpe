@@ -26,6 +26,9 @@ print("Comments have been changed from '#' to '//' successfully.")
 
 
 
-// Make sure to replace "your_file.py" with the actual path to your Python file. This code reads the original file line by line, replaces any occurrence of # with //, and writes the modified lines to a temporary file. Then it removes the original file, renames the temporary file to the original file name, and prints a message indicating the completion of the operation.
+# Make sure to replace "your_file.py" with the actual path to your Python file. This code reads the original file line by line, 
+# replaces any occurrence of # with //, and writes the modified lines to a temporary file. 
+# Then it removes the original file, renames the temporary file to the original file name, and prints a message indicating the completion of the operation.
 
-// Note: It's always a good practice to make a backup of your file before making changes like this, just in case anything goes wrong. The code above creates a backup file with a .bak extension.
+# Note: It's always a good practice to make a backup of your file before making changes like this,
+# just in case anything goes wrong. The code above creates a backup file with a .bak extension.
